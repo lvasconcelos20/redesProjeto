@@ -6,11 +6,6 @@ Este projeto implementa várias funcionalidades de sockets, incluindo DNS, TCP e
 
 ## Tabela de Conteúdos
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Estrutura do Projeto
 ```plaintext
