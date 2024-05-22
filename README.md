@@ -10,7 +10,7 @@ Este projeto implementa várias funcionalidades de sockets, incluindo DNS, TCP e
 ## Estrutura do Projeto
 ```plaintext
 proj_sockets
-├── aplicativo
+├── app
 │   ├── dns
 │   │   ├── const.py
 │   │   ├── dns.py
