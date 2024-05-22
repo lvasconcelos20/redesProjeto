@@ -25,7 +25,7 @@ proj_sockets
 │   │   ├── const.py
 │   │   ├── logger.py
 │   │   ├── servidorUDP.py
-├── fotos
+├── pictures
 │   ├── wireshark.png
 │   ├── tcp-dns.png
 │   ├── udp-dns.png
